@@ -1,7 +1,7 @@
 
 ### Dots and Boxes Game (Java)
 
-by: Keith Fenske, http://kwfenske.github.io/
+by: Keith Fenske, https://kwfenske.github.io/
 
 DotsAndBoxes is an old Java 1.1 AWT (GUI) applet to play the pencil-and-paper
 game of "Dots and Boxes", also known as "Lines and Boxes". The game board is a
@@ -17,7 +17,7 @@ stand-alone applications with the help of a wrapper (included). This becomes
 less likely after Java 9 (2017). Rewriting for Java Swing or newer JavaFX is
 not an easy job.
 
-Download the ZIP file here: http://kwfenske.github.io/dots-and-boxes-game-java.zip
+Download the ZIP file here: https://kwfenske.github.io/dots-and-boxes-game-java.zip
 
 Released under the terms and conditions of the GNU General Public License,
 version 3 or later (GPLv3+).
